@@ -1,6 +1,6 @@
 name: "S3 File Upload"
-description: "Upload an object to an S3 bucket."
-author: "zdurham"
+description: "Upload an object to an S3 bucket. Based on the action of the same name by zdurham."
+author: "ninja243"
 runs:
   using: docker
   image: Dockerfile
